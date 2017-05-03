@@ -1,5 +1,4 @@
-**Enter Headline Here**
+**Title here**
 ---
 
-*by Alex Chern*
----
+**Alex "BTM" Chern**
